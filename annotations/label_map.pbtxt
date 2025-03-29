@@ -28,7 +28,7 @@ item {
 }
 item {
   id: 8
-  name: 'awning tricycle'
+  name: 'awning_tricycle'
 }
 item {
   id: 9
