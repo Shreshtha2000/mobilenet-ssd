@@ -1,6 +1,6 @@
 item {
   id: 1
-  name: 'group of people'
+  name: 'group_of_people'
 }
 item {
   id: 2
@@ -8,7 +8,7 @@ item {
 }
 item {
   id: 3
-  name: 'people'
+  name: 'person'
 }
 item {
   id: 4
