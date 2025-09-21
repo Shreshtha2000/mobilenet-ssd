@@ -1,0 +1,6 @@
+train: /kaggle/input/combined-human-and-vehicle/combined_human_and_vehicle_detection/images/train
+val: /kaggle/input/combined-human-and-vehicle/combined_human_and_vehicle_detection/images/val
+test: /kaggle/input/combined-human-and-vehicle/combined_human_and_vehicle_detection/images/test
+
+nc: 12
+names: ['group_of_people','pedestrian','person', 'bicycle','car','van','truck','awning_tricycle','tricycle','bus','motorbike','bike']
